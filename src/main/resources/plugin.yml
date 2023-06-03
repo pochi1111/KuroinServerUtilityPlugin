@@ -1,0 +1,4 @@
+name: KuroinServerUtilityPlugin
+version: '${project.version}'
+main: san.kuroinu.kuroinserverutilityplugin.KuroinServerUtilityPlugin
+api-version: 1.19
